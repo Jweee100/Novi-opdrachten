@@ -32,7 +32,9 @@ ul {
 
 li {
     display: flex;
-    padding-right: 20px;
+    justify-content: space-between;
+    padding-right: 40px;
+
 }
 
 /*opdracht 2.4*/
